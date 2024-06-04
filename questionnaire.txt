@@ -1,0 +1,32 @@
+Traq/Fast Questionnaire
+***
+TRAQ
+J'ai du mal à maintenir mon attention au travail. 
+Mes proches me reprochent de ne pas les écouter quand ils parlent. 
+Il m'est difficile d'organiser des tâches nécessitant plusieurs étapes. 
+Je fais souvent des fautes d'étourderie dans mes activités. 
+Je quitte souvent ma place sans nécessité lors d'une réunion. 
+Je ne prête pas vraiment attention aux détails. 
+Je suis souvent sujet à des oublis dans ma vie quotidienne (tâches ménagères, courses). 
+J'ai des difficultés à rester concentré lors de mes activités (domestiques, professionnelles). 
+Il m'est difficile d'attendre mon tour dans une file d'attente. 
+Il m'arrive souvent de remuer les mains ou les pieds sur ma chaise. 
+
+FAST
+J'ai du mal à saisir quand quelqu'un dit une chose mais en pense une autre. 
+Je n'utilise pas seulement la parole pour communiquer. 
+J'ai du mal à comprendre ce que les autres attendent de moi. 
+Changer de chemin pour effectuer un trajet quotidien ne me pose pas de problème. 
+Je fais très attention à la texture de mes habits quand je les mets, c'est plus important que ce à quoi il ressemble. 
+J'ai du mal à identifier lorsque c'est mon tour de parler. 
+J'ai du mal à lire les expressions du visage ou les gestes des autres. 
+J'ai tendance à me concentrer sur des choses bien précises plutôt que sur l'idée générale. 
+***
+Ne me ressemble pas du tout
+Me ressemble très peu
+Me ressemble un peu
+Me ressemble assez
+Me ressemble beaucoup
+Me ressemble complètement
+***
+1
